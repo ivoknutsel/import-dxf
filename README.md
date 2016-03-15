@@ -62,5 +62,12 @@ process may be more successful than undoing changes from history.
 Please help this project by filing an issue or pull request if there are any errata 
 or improvements to be made in the documentation or associated ulp.
 
+## Links
+An online version of the Cadsoft Eagle description fot the POLYGON command can be found here :
+http://web.mit.edu/xavid/arch/i386_rhel4/help/100.htm
+
+A description of the DXF standard file format can be found here :
+http://www.autodesk.com/techpubs/autocad/acad2000/dxf/lwpolyline_dxf_06.htm
+
 See the [CactusCon 2014 badge](https://github.com/erikwilson/cactuscon2014/tree/master/imgs)
 for examples of DXF files generated from Inkscape for use with import-dxf.
